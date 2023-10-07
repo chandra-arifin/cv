@@ -31,5 +31,5 @@ cn **Chinese**: Active Speaking and Listening Only <br>
 - 2000 – 2004	Universitas Bina Nusantara Jurusan Teknik Informatika (TI) <br>
 
 <br><br>
-Thanks to [Carolyn Stransky] (https://github.com/carolstran) For this tutorial "Digital CV" 
+Thanks to [Carolyn Stransky](https://github.com/carolstran) For this tutorial "Digital CV" 
 
