@@ -25,7 +25,8 @@ cn **Chinese**: Active Speaking and Listening Only <br>
 ## 👩🏼‍🎓 Education
 
 **Formal Education**
-•	1988 – 1994	SD Nas Sariputra Jambi
-•	1994 – 1997	SMP Xaverius I Jambi
-•	1997 – 2000	SMA Xaverius I Jambi
-•	2000 – 2004	Universitas Bina Nusantara Jurusan Teknik Informatika (TI)
+- 1988 – 1994	SD Nas Sariputra Jambi <br>
+- 1994 – 1997	SMP Xaverius I Jambi <br>
+- 1997 – 2000	SMA Xaverius I Jambi <br>
+- 2000 – 2004	Universitas Bina Nusantara Jurusan Teknik Informatika (TI) <br>
+
