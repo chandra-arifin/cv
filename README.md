@@ -30,3 +30,6 @@ cn **Chinese**: Active Speaking and Listening Only <br>
 - 1997 – 2000	SMA Xaverius I Jambi <br>
 - 2000 – 2004	Universitas Bina Nusantara Jurusan Teknik Informatika (TI) <br>
 
+<br><br>
+Thanks to **Carolyn Stransky** For this tutorial "Digital CV" (https://github.com/carolstran)
+
